@@ -1,0 +1,1 @@
+The code to solve the problem is in the point.rb file.  The original problem is the first test defined in the point_tests.rb file.  There are a few other test cases I added to ensure the code is working as expected.  To run the code, use bundler to install minitest, and then run "ruby ./point_test.rb".
